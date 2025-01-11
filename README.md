@@ -1,1 +1,1 @@
-![profile visits](https://unique-visit-count.glitch.me/{lignexxx}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
