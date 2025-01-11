@@ -1,1 +1,1 @@
-![profile visits](https://profile-counter.glitch.me/{lignexxx}/count.svg)
+![profile visits](https://unique-visit-count.glitch.me/{lignexxx}/count.svg)
