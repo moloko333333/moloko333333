@@ -1,1 +1,1 @@
-![](https://github.com/moloko333333&style=for-the-badge)
+![](https://komarev.com/ghpvc/?moloko333333&abbreviated=true)
